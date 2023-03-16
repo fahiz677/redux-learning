@@ -1,4 +1,4 @@
-import React, { Component }  from 'react';
+import React from 'react';
 import Counter from "./Counter";
 import Aside from "./Aside";
 function Main() {
